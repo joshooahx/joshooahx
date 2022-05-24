@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @joshooahx
 - 👀 I’m interested in ... learning how to be a full stack dev
 - 🌱 I’m currently learning ... the basics 
-- 💞️ I’m looking to collaborate on ... cool projects (in the (future)
+- 💞️ I’m looking to collaborate on ... cool projects (in the future)
 - 📫 How to reach me ... 
 
 <!---
